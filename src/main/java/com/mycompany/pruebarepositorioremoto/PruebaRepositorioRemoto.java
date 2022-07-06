@@ -12,6 +12,7 @@ package com.mycompany.pruebarepositorioremoto;
 public class PruebaRepositorioRemoto {
 
     public static void main(String[] args) {
-        System.out.println("Prueba de repositorio remoto");
+        System.out.println("Prueba de repositorio remoto otra vez");
+        System.out.println("XD");
     }
 }
